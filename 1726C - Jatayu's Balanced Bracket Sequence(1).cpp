@@ -1,4 +1,4 @@
-//1726C - Jatayu's Balanced Bracket Sequence
+//1726C - Jatayu's Balanced Bracket Sequence(1)
 //16-07-2025
 #include <bits/stdc++.h>
 using namespace std;
